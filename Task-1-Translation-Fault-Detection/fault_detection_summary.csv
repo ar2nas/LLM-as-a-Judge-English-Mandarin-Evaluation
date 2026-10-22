@@ -1,0 +1,7 @@
+fault_type,cases,mean_drop_10,passed,pass_rate
+dropped_clause,3,0.0,0,0.0
+entity_number,3,1.6666666666666667,0,0.0
+negation,3,2.5,0,0.0
+punctuation_control,3,0.0,3,100.0
+truncation,3,2.5,0,0.0
+untranslated,3,0.8333333333333334,0,0.0
